@@ -1,2 +1,3 @@
 # Thrift_IDL
-IDL
+Thrift IDL files
+
